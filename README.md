@@ -1,0 +1,2 @@
+# OptimizeTesseract
+Tesseract textcleaner optimization
